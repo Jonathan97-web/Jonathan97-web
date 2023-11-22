@@ -6,7 +6,7 @@ In my freetime I love traveling, playing video games and of course coding!
 Feel free to watch some of my repositories and connect with me on linkedin!
 
 ## Programming languages
-![Programming languages](https://skillicons.dev/icons?i=html,css,js,python,java)
+![Programming languages](https://skillicons.dev/icons?i=html,css,js,typescript,python,java)
 
 ## Frameworks & API's
 ![My Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap,postman)
