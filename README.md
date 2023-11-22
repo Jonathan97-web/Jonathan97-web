@@ -12,7 +12,7 @@ Feel free to watch some of my repositories and connect with me on linkedin!
 ![My Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap,postman)
 
 ## Version control and coding
-![VC and coding](https://skillicons.dev/icons?i=git,github,vscode,eclipse,replit)
+![VC and coding](https://skillicons.dev/icons?i=git,github,vscode,eclipse,replit,stackoverflow)
 
 ## Deployment
 ![Deployment](https://skillicons.dev/icons?i=heroku,netlify)
@@ -22,7 +22,7 @@ Feel free to watch some of my repositories and connect with me on linkedin!
 ![Social media](https://skillicons.dev/icons?i=discord)
 
 ## Wireframes & UX
-![Wireframes](https://skillicons.dev/icons?i=figma,ps,stackoverflow)
+![Wireframes](https://skillicons.dev/icons?i=figma,ps)
 
 
 ### General Links
