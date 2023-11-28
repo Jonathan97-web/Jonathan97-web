@@ -27,4 +27,5 @@ Feel free to watch some of my repositories and connect with me on linkedin!
 
 ### General Links
 [Leetcode](https://leetcode.com/ImJexz/)  
-[CodeWars](https://www.codewars.com/users/Jonathan97-web)
+[CodeWars](https://www.codewars.com/users/Jonathan97-web)  
+[Code Institute Certificate](https://www.credential.net/5d38fb2d-cb0b-4366-a0f6-f82f0a18bb27#gs.1jigiy)
