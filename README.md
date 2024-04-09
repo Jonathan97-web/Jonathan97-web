@@ -9,10 +9,10 @@ Feel free to watch some of my repositories and connect with me on linkedin!
 ![Programming languages](https://skillicons.dev/icons?i=html,css,js,typescript,python,java)
 
 ## Frameworks/Libraries & API's
-![My Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap,postman)
+![My Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap,postman,materialui,tailwind)
 
 ## Version control and coding
-![VC and coding](https://skillicons.dev/icons?i=git,github,vscode,eclipse,replit,stackoverflow)
+![VC and coding](https://skillicons.dev/icons?i=git,npm,github,vscode,eclipse,replit,stackoverflow)
 
 ## Deployment
 ![Deployment](https://skillicons.dev/icons?i=heroku,netlify)
@@ -23,6 +23,7 @@ Feel free to watch some of my repositories and connect with me on linkedin!
 
 ## Wireframes & UX
 ![Wireframes](https://skillicons.dev/icons?i=figma,ps)
+
 
 
 ### General Links
