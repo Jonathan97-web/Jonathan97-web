@@ -8,7 +8,7 @@ Feel free to watch some of my repositories and connect with me on linkedin!
 ## Programming languages
 ![Programming languages](https://skillicons.dev/icons?i=html,css,js,typescript,python,java)
 
-## Frameworks & API's
+## Frameworks/Libraries & API's
 ![My Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap,postman)
 
 ## Version control and coding
